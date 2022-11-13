@@ -1,4 +1,4 @@
-variable "sg_rule_id" {
+variable "security_group_id" {
   type        = string
   description = "Security Group ID"
   default     = "sg-0a0a0a0a0a0a0a0a0"
